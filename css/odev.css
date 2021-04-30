@@ -1,0 +1,42 @@
+p
+{
+    color:#151515;
+    font-family: 'Zen Dots', cursive;
+
+}
+body
+{
+    background-color:#f5f7b2;
+
+}
+h1,h2,a
+{
+    color:rebeccapurple;
+    font-family: 'Zen Dots', cursive;
+    text-align: center;
+    
+    
+
+}
+h3
+{
+    color:brown;
+    font-family: 'Zen Dots', cursive;
+    
+}
+
+.ortala
+{
+    text-align: center;
+}
+ul.b 
+{
+    
+    font-family: 'Zen Dots', cursive;
+    list-style-position: inside;
+}
+ol.a
+{
+    list-style-position: inside;
+    font-family: 'Zen Dots', cursive;
+}
